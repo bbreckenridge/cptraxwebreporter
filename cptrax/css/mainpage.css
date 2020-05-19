@@ -1,0 +1,49 @@
+.wrapper { 
+	margin-top: 25;
+	margin-left: 75;
+	margin-right: 75;
+	margin-bottom: 50;
+}
+
+.addpaddingtop { padding-top: 50px; }
+
+.addpaddingleft { padding-left: 50px; }
+
+.chartsize {
+	min-width: 450px;
+	max-width: 650px;
+	width: 55%;
+	margin-bottom: 3%;
+	margin-left: 3%;
+}
+
+.piesize {
+	min-width: 350px;
+	max-width: 500px;
+	width: 30%;
+	margin-left: 8%;
+}
+
+.marginleft { margin-left: 10%; }
+
+.sumtableheader {
+	font-size: 20;
+	background: #aeb3ba;
+	border-collapse: collapse;
+}
+
+tr.sumtableheader {
+	cursor: pointer;
+}
+
+table,
+tr,
+td,
+th {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+tr.header {
+  cursor: pointer;
+}

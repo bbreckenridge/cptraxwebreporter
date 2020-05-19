@@ -1,0 +1,1 @@
+<?php $numOfDays = 30; ?>
